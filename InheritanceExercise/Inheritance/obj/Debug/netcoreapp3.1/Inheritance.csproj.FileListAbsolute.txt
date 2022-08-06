@@ -1,0 +1,14 @@
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.AssemblyReference.cache
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfoInputs.cache
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfo.cs
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.deps.json
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.json
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.dev.json
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.dll
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.dll
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/kristinacagle/Desktop/repos/InheritanceExercise/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.genruntimeconfig.cache
